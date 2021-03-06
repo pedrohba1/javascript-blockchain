@@ -1,0 +1,16 @@
+{
+  "name": "javascript-blockchain",
+  "version": "1.0.0",
+  "description": "blockchain studies with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "fs": "0.0.1-security"
+  }
+}
